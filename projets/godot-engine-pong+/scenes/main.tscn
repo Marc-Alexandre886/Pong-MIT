@@ -1,0 +1,59 @@
+[gd_scene format=3 uid="uid://dkr7d5hfn7wpk"]
+
+[ext_resource type="Script" uid="uid://i3jpy327ky55" path="res://scripts/main_menu_buttons.gd" id="1_o5qli"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_sgp6g"]
+font_size = 72
+
+[node name="Main_menu" type="Node2D" unique_id=1713101221]
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=59356660]
+position = Vector2(576, 317)
+
+[node name="Title" type="Label" parent="." unique_id=891247712]
+offset_right = 1152.0
+offset_bottom = 99.0
+text = "PONG +"
+label_settings = SubResource("LabelSettings_sgp6g")
+horizontal_alignment = 1
+vertical_alignment = 1
+text_direction = 1
+language = "en_CA"
+
+[node name="Buttons" type="Control" parent="." unique_id=1849586049]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_o5qli")
+
+[node name="play" type="Button" parent="Buttons" unique_id=1743678146]
+layout_mode = 0
+offset_left = 488.0
+offset_top = 182.0
+offset_right = 627.0
+offset_bottom = 237.0
+text = "Play"
+
+[node name="settings" type="MenuButton" parent="Buttons" unique_id=1722354601]
+layout_mode = 0
+offset_left = 488.0
+offset_top = 296.0
+offset_right = 627.0
+offset_bottom = 334.0
+text = "Settings"
+
+[node name="quit_game" type="Button" parent="Buttons" unique_id=644836015]
+layout_mode = 0
+offset_left = 488.0
+offset_top = 401.0
+offset_right = 627.0
+offset_bottom = 465.0
+action_mode = 0
+text = "Quit"
+
+[connection signal="pressed" from="Buttons/play" to="Buttons" method="_on_play_pressed"]
+[connection signal="pressed" from="Buttons/settings" to="Buttons" method="_on_settings_pressed"]
+[connection signal="pressed" from="Buttons/quit_game" to="Buttons" method="_on_quit_game_pressed"]

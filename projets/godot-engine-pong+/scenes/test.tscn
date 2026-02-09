@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://b3y3rbmah05iw"]
+
+[ext_resource type="Script" uid="uid://cfxcvephmbsg6" path="res://scripts/test.gd" id="1_s1xgc"]
+
+[sub_resource type="QuadMesh" id="QuadMesh_s1xgc"]
+
+[node name="Node2D" type="Node2D" unique_id=263260935]
+script = ExtResource("1_s1xgc")
+
+[node name="square" type="MeshInstance2D" parent="." unique_id=1978034160]
+position = Vector2(-15, 6)
+scale = Vector2(317.49997, 173.5)
+mesh = SubResource("QuadMesh_s1xgc")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=409339701]

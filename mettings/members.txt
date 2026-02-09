@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+Membres pour l'équipe MIT :
+
+- Marc-Alexandre (programmation => Godot engine)
+
+- Izak Laberge (sound desaign ?)
+
+- Elie Rojas (À rencontrer)
+
+- Léonie Cantegrel (assets => sur demande)
+
+- Étienne Minville (DA => Affinity)
+
+=======
+Membres pour l'équipe MIT :
+
+- Marc-Alexandre (programmation => Godot engine)
+
+- Izak Laberge (sound desaign ?)
+
+- Elie Rojas (À rencontrer)
+
+- Léonie Cantegrel (assets => sur demande)
+
+- Étienne Minville (DA => Affinity)
+
+>>>>>>> 59c2eb9b6c038e2722a8d8c853236fd801c68c49
+- Zacharie Poliquin (Montage => Première / DaVinci Resolve)

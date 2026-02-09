@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://dqpge7gcicai6"]
+
+[ext_resource type="PackedScene" uid="uid://c53u0bg6d6gqq" path="res://scenes/return_button.tscn" id="1_8r3iy"]
+
+[sub_resource type="QuadMesh" id="QuadMesh_00ct7"]
+
+[node name="Play_screen" type="Node2D" unique_id=1319379915]
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=744604082]
+
+[node name="Player1" type="MeshInstance2D" parent="." unique_id=1480924740]
+position = Vector2(-803, 0)
+scale = Vector2(58.499992, 439.49997)
+mesh = SubResource("QuadMesh_00ct7")
+
+[node name="Player2" type="MeshInstance2D" parent="." unique_id=411677320]
+position = Vector2(845, 0)
+scale = Vector2(58.499992, 439.49997)
+mesh = SubResource("QuadMesh_00ct7")
+
+[node name="Return_main" parent="." unique_id=1872274719 instance=ExtResource("1_8r3iy")]
+offset_left = -921.0
+offset_top = -491.0
+offset_right = -921.0
+offset_bottom = -491.0

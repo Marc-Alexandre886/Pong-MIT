@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://c53u0bg6d6gqq"]
+
+[ext_resource type="Script" uid="uid://c3n64qyrmhex7" path="res://scripts/return_main_menu.gd" id="1_24x3x"]
+
+[node name="Control" type="Control" unique_id=1872274719]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_right = -1820.0
+offset_bottom = -980.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_24x3x")
+
+[node name="Button" type="Button" parent="." unique_id=325427844]
+layout_mode = 0
+offset_right = 100.0
+offset_bottom = 100.0
+text = "<-"
+
+[connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
