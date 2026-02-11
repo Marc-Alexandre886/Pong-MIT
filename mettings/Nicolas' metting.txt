@@ -1,19 +1,19 @@
 1. premier avis
 
 
-2. idée du premier jeu et structure de l'équipe
+2. Membres des deux équipes
 
 
 3. court terme / long terme ?
 
 
-4. Membres des deux équipes
+4. idée du premier jeu et structure de l'équipe
 
 
-5. logiciels (game engine, art apps, etc.)
+5. organisation des réunions et des projets
 
 
-6. organisation des réunions et des projets
+6. logiciels (game engine, art apps, etc.)
 
 
 7. écheance du premier projet
