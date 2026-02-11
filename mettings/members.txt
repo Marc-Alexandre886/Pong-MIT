@@ -2,9 +2,9 @@ Membres pour l'équipe MIT (actuelle) :
 
 - Marc-Alexandre (programmation => Godot engine)
 
-- Izak Laberge (sound desaign ?)
+- Izak Laberge (sound design / graphisme)
 
-- Elie Rojas (À rencontrer)
+- Elie Rojas (game design / design)
 
 - Léonie Cantegrel (assets => sur demande)
 
