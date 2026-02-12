@@ -1,29 +1,68 @@
 1. premier avis
 
+Nicolas : formelle ? pas forcément
+
 
 2. Membres des deux équipes
 
+Voir members.txt
 
-3. court terme / long terme ?
+
+3. court terme / long terme ? et structure de l'équipe
+
+M-A : long terme (premier projet simple, plus complex et ambitieux) => découvre projet en équipe pour le jeu
+
+Nicolas : court terme (pour un ou deux niveaux) => en expérimentation
 
 
-4. idée du premier jeu et structure de l'équipe
+4. idée du premier jeu
+
+M-A : Pong+ (rendre pong personnalisable mécanique complètement différent ?)
+
+Nicolas : platformer (Super Mario World like) => mécanique de Yoshi island + jeu indé (pas tué) + mécanique de lettre qui se dégrade (score) + philo compléoniste + Celeste
+Challenge : level design + mécanique
+
+
+Choix premier jeu : à discuter en grand groupe (expérimenter ou fun, vote pour le jeu?)
 
 
 5. organisation des réunions et des projets
 
+M-A : premier projet simple (échéance en dehors des cours et travailler en équipe et s'organiser (GitHub, resources YT))
+
+Nicolas : premier projet complexe, mais fun (court terme, complex, vote pour le genre et le jeu)
+
+Platforme communication : serveur Discord directement
+
+Tutos M-A : Mettre à jour dépôt GitHub, créer un lien google drive / one drive
+
 
 6. logiciels (game engine, art apps, etc.)
+
+Game engine : Godot
+
+Suite Abode : open-source et gratuit ? (au choix)
 
 
 7. écheance du premier projet
 
-
-8. rétroaction (nouvelles décisions, idées ou changements)
-
+Pas d'echéance fixe (Réunions / 2 semaines)
 
 9. décision
 
+1er réunion présentiel
+
+autres réunions : hybride
+
+Décision finale : oui
 
 10. Répartition des tâches
+
+Quand ? Le 19 Février (en présentiel en grand groupe, 12h30 à 14h00)
+
+M-A : tutos + vidéo présentation, anonce sur Discord (message quand je suis prêt)
+
+Nicolas : Organisation du serveur, logo, parlez avec les membres
+
+
 

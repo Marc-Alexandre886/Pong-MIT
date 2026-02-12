@@ -1,6 +1,6 @@
-Membres pour l'équipe MIT (actuelle) :
+Membres pour l'équipe MIT (Marc-Alexandre) :
 
-- Marc-Alexandre (programmation => Godot engine)
+- Marc-Alexandre Di Marco François (programmation => Godot engine)
 
 - Izak Laberge (sound design / graphisme)
 
@@ -11,3 +11,12 @@ Membres pour l'équipe MIT (actuelle) :
 - Étienne Minville (DA => Affinity)
 
 - Zacharie Poliquin (Montage => Première / DaVinci Resolve)
+
+
+Membres pour l'équipe de Nicolas :
+
+- Nathaniel Ouellet (intéreisé => programmation (1J1 impresionnant) => Unity / Godot)
+
+- Mathéo Sousa (intérêt => programmation (expérience Unity) => Unity / Godot)
+
+- Nicolas Gavriliouk (DA / prog(mécanique) => Aseprite (pixel art) / Cours Godot (en ligne))
