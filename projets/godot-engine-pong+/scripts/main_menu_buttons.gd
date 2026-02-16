@@ -24,4 +24,3 @@ func _on_settings_pressed() -> void:
 
 func _on_quit_game_pressed() -> void:
 	OS.has_feature("web") if JavaScriptBridge.eval("window.close();") else get_tree().quit();
-	get_tree().quit();
