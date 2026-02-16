@@ -1,8 +1,12 @@
 extends Control
 
+# Web variables
+var window: Window = Window.new();
+
+
+# Global variables
 var playScene:String = "uid://dqpge7gcicai6"
 var settingsScene:String = "uid://d2ses80gugoiv"
-
 
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
@@ -23,4 +27,4 @@ func _on_settings_pressed() -> void:
 
 
 func _on_quit_game_pressed() -> void:
-	OS.has_feature("web") if JavaScriptBridge.eval("window.close();") else get_tree().quit();
+	OS.has_feature("web") if window.close_requested.connect(window.queue_free) else get_tree().quit();
