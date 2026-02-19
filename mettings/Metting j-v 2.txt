@@ -1,21 +1,44 @@
 - Répartitions des tâches fait ?
 
+M-A : ok
 
-- Message TIM > MIT
+Nicolas : logo serveur Discord
+
+
+- Message TIM > MIT 
 
 
 - Explication choix Godot ($$$)
 
+choix Godot (Nathaniel) => membres + famillier avec Unity
 
-- Jeu pour Télé-Québec ?
+Izak : transition difficile
+
+discussion avec Nicolas (apprendre en même temps)?
+
+Jeu pour le TIM = OUI!!!!!!!!!!!!!!!!!!
 
 
 - Décision 1er projet
 
+2D (3d ? prochain projet avec l'équipe d'Imane?)
 
-- Structure équipe (Si le temps le permet)
+pas de puzzle ou RPG
+
+tout en 3 mois
+
+Innover avec Pong?
+
+pixel art / cartoon
+
+solo / multi locale
+
+
+Public cible : TIM (surnaturel, + indé)
 
 
 - Répartitions des tâches
 
-Quand : Le 5 ou 12 Mars 2026, de 12h30 à 14h00 au F-3003
+Tout le monde : penser au premier projet (game design et project management)
+
+Quand : Le 5 Mars 2026, de 12h30 à 14h00 au F-3003
